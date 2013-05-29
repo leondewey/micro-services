@@ -1,0 +1,8 @@
+source :rubygems
+
+gem 'shotgun'
+gem 'grape'
+gem 'representable'
+gem 'roar'
+gem 'puma'
+gem 'ohm'

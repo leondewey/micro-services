@@ -1,0 +1,7 @@
+source :rubygems
+
+gem 'mini_magick'
+gem 'open-uri-cached'
+gem 'shotgun'
+gem 'sinatra'
+gem 'puma'

@@ -1,0 +1,2 @@
+#web:  subcontract --rvm jruby-head -- bundle exec puma config.ru
+web: puma config.ru
